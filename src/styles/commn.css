@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Bodoni+Moda:opsz,wght@6..96,400;6..96,900&family=Edu+SA+Beginner&family=Edu+VIC+WA+NT+Beginner&family=Inter:wght@600;700&family=Lexend:wght@300;400;500;600&family=Libre+Franklin&family=Monda:wght@700&family=Playfair+Display:wght@400;500;600&family=Poppins:wght@300;400;500;700&family=Prompt:wght@200;300;400;500;600&family=Roboto+Condensed&family=Roboto+Slab:wght@300;400;500&family=Rubik:wght@500&family=Russo+One&family=Shrikhand&family=Space+Grotesk:wght@300;400;500;600&family=Splash&family=Teko:wght@600&family=Unbounded:wght@200;300;400;500;600;700&family=Work+Sans:wght@300&display=swap');
+.nav-links{
+    font-family: "Prompt",sans-serif;
+}
+.typewritter{
+    font-family: "Space Grotesk",sans-serif;
+}
+.hero-font,.frontendheading,.backendheading,.databaseheading,.experience,.contactheading{
+    font-family: "Prompt",sans-serif;
+}
+.projecttitle,.frontendtitle,.backendtitle,.databasetitle,.subheading{
+    font-family: "Poppins",sans-serif;
+}
